@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://img.freepik.com/free-photo/a-picture-of-fireworks-with-a-road-in-the-background_1340-43363.jpg');
+    background-size: cover;
+}   
+nav{
+    border: 7px solid blue;
+    width: 700px;
+}
+nav a{
+    padding-right: 550px;
+    width: 70px;
+}
+
+.btn1{
+    position: left;
+    width: 70px;
+}
+.btn2{
+    position: absolute;
+    right: 20px;
+    width: 70px;
+}
